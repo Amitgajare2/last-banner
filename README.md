@@ -6,7 +6,7 @@ This Bash script Stylish your TERMUX
 ## Installing Commands 
 
 1. `apt update && apt install git -y`
-2. `git clone https://github.com/remo7777/T-Header.git`
+2. `git clone https://github.com/Amitgajare2/last-banner`
 3. `cd Last-Banner`
 4. `ls`
 5. `chmod +x *`
