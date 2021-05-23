@@ -1,5 +1,5 @@
 Last Banner script
-This Bash script Stylish your TERMUX 
+This Bash Style your TERMUX 
 ## Preview of after setup completed..
 <img src="https://i.ibb.co/hCBQRhc/Screenshot-2021-0523-154924.png" alt="Screenshot-2021-0523-154924" border="0">
 
@@ -23,4 +23,4 @@ This Bash script Stylish your TERMUX
 #
 Visit My Website{ [Click Here](https://amitgajare.blogspot.com/) }
 
-## Don't try without cloning...
+## Don't try cloning...
