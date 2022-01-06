@@ -22,5 +22,3 @@ This Bash Style your TERMUX
 15. `bash`
 #
 Visit My Website{ [Click Here](https://amitgajare.blogspot.com/) }
-
-## Don't try cloning...
